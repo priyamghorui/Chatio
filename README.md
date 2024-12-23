@@ -1,7 +1,8 @@
 # Chatio Frontend
 
 Welcome to the frontend of **Chatio**, a modern, real-time chat application. This frontend is built using Next.js and styled with Tailwind CSS. It integrates with Redux for state management, Flowbite-React for UI components, and Axios for API communication. Real-time functionalities are powered by Socket.IO Client.
-
+# Chatio Backend
+## https://github.com/priyamghorui/chatioServer
 ---
 ## Preview
 ![Capture1](https://github.com/user-attachments/assets/a2c9b88f-d170-4926-8bb5-eaba2ad0f0f4)
