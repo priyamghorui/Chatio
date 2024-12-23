@@ -1,36 +1,51 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Chatio Frontend
 
-## Getting Started
+Welcome to the frontend of **Chatio**, a modern, real-time chat application. This frontend is built using Next.js and styled with Tailwind CSS. It integrates with Redux for state management, Flowbite-React for UI components, and Axios for API communication. Real-time functionalities are powered by Socket.IO Client.
 
-First, run the development server:
+---
+## Preview
+![Capture1](https://github.com/user-attachments/assets/a2c9b88f-d170-4926-8bb5-eaba2ad0f0f4)
+![Capture2](https://github.com/user-attachments/assets/d8dc7a7b-0561-464a-bb17-581772168e78)
+![Capture3](https://github.com/user-attachments/assets/3b8459e6-0ee4-4988-896e-2e77c2520a68)
+![Capture4](https://github.com/user-attachments/assets/6aaa5998-44ad-4614-8940-fd9d66df8db6)
+![Capture5](https://github.com/user-attachments/assets/2fa87343-2f87-4ada-981a-554e4147178a)
+![Capture6](https://github.com/user-attachments/assets/c8017d2d-3428-4e25-b306-18648af34559)
+![Capture7](https://github.com/user-attachments/assets/1902009d-d69b-48a4-bdcd-9010d7a53d15)
+![Capture8](https://github.com/user-attachments/assets/f901bbe6-27b4-41e8-a252-92cec0640db7)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Features
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Real-Time Messaging**: Seamless, instant communication using Socket.IO Client.
+- **Modern UI Design**: Built with Tailwind CSS and Flowbite-React components.
+- **Global State Management**: Handled with Redux.
+- **API Integration**: Powered by Axios for efficient communication with the backend.
+- **Optimized Performance**: Leveraging Next.js for server-side rendering (SSR) and static site generation (SSG).
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## Tech Stack
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **Next.js**
+- **Tailwind CSS**
+- **Flowbite-React**
+- **Redux**
+- **Axios**
+- **Socket.IO Client**
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## Installation
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Prerequisites
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Ensure you have the following installed:
+
+- Node.js (v14 or later)
+- A backend API (e.g., the Chatio Backend)
+
+---
+# THANK YOU 
+
